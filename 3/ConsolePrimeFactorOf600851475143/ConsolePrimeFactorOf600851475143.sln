@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePrimeFactorOf600851475143", "ConsolePrimeFactorOf600851475143\ConsolePrimeFactorOf600851475143.csproj", "{411420F5-F66B-4D4F-A081-F524320D5C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePrimeFactors.Test", "ConsolePrimeFactors.Test\ConsolePrimeFactors.Test.csproj", "{1AD7CB32-A753-4118-820A-DC7FBAE8DE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD7CB32-A753-4118-820A-DC7FBAE8DE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD7CB32-A753-4118-820A-DC7FBAE8DE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD7CB32-A753-4118-820A-DC7FBAE8DE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD7CB32-A753-4118-820A-DC7FBAE8DE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411420F5-F66B-4D4F-A081-F524320D5C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411420F5-F66B-4D4F-A081-F524320D5C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411420F5-F66B-4D4F-A081-F524320D5C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411420F5-F66B-4D4F-A081-F524320D5C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
